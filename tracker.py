@@ -9,7 +9,7 @@ TWILIO_TOKEN  = "PASTE_YOUR_TOKEN_HERE"
 FROM_WHATSAPP = "whatsapp:+14155238886"
 TO_WHATSAPP   = "whatsapp:+91XXXXXXXXX"  # your Indian number
 
-THRESHOLD     = 0.25
+THRESHOLD     = 0.01
 STATE_FILE = "/tmp/eur_inr_state.json"
 # ────────────────────────────────────────────────────────
 
